@@ -2,9 +2,9 @@
 
 ## My contact info:
 
-email: [ranisans@yahoo.com](mailto:ranisans@yahoo.com)
-skype: rani-1981
-github: [https://github.com/Ranisans](https://github.com/Ranisans)
+email: [ranisans@yahoo.com](mailto:ranisans@yahoo.com)  
+skype: rani-1981  
+github: [https://github.com/Ranisans](https://github.com/Ranisans)  
 telephone: +7(963)-656-54-60
 
 ## Summary
@@ -13,8 +13,8 @@ I'm a system administrator with experience in programming and interested in WEB 
 
 ## Skills
 
-`Languages:` Python, Javascript, HTML, CSS
-`Databases:` PostgreSQL
+`Languages:` Python, Javascript, HTML, CSS  
+`Databases:` PostgreSQL  
 `Frameworks and Libraries:` Flask, React, SQLAlchemy, Bootstrap  
 `Version Control System:` Git
 
