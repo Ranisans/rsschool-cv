@@ -19,10 +19,14 @@ h2 {
   font-weight: bold;
 }
 
+p {
+  text-indent: 3em;
+  margin: 0 2em;
+}
+
 .fixed-width {
   max-width: 1024px;
   margin: 0 auto;
-  border: rgb(23, 161, 30) solid 1px;
 }
 
 header {
@@ -87,7 +91,7 @@ main section a:hover {
   color: rgb(23, 161, 30);
 }
 
-p {
-  text-indent: 3em;
-  margin: 0 2em;
+.fa {
+  font-size: 1.5rem;
+  color: rgb(29, 184, 223);
 }
