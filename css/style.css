@@ -1,0 +1,93 @@
+body,
+html {
+  background-color: rgb(255, 255, 211);
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin: 1rem 0;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+}
+
+.fixed-width {
+  max-width: 1024px;
+  margin: 0 auto;
+  border: rgb(23, 161, 30) solid 1px;
+}
+
+header {
+  width: 100%;
+  display: table;
+}
+
+header h1 {
+  float: right;
+  color: rgb(9, 87, 155);
+}
+
+header nav a {
+  color: inherit;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 1em;
+}
+
+header nav ul {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(255, 240, 155);
+}
+
+header nav li {
+  float: right;
+  padding: 1em 0;
+  list-style: none;
+}
+
+header nav li a:hover {
+  background-color: rgb(255, 255, 211);
+}
+
+main h2 {
+  text-align: center;
+  color: rgb(179, 59, 59);
+}
+
+main img {
+  float: right;
+  margin-right: 5em;
+}
+
+main section,
+.clearfix {
+  clear: both;
+}
+
+main section code {
+  color: rgb(158, 101, 47);
+  padding: 0 2px;
+}
+
+main section a:visited {
+  color: rgb(5, 92, 104);
+}
+
+main section a:hover {
+  color: rgb(23, 161, 30);
+}
+
+p {
+  text-indent: 3em;
+  margin: 0 2em;
+}
